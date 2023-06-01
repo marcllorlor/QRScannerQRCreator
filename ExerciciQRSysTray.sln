@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciQRSysTray", "ExerciciQRSysTray\ExerciciQRSysTray.csproj", "{D59BE7A9-E738-41B3-B538-05018D407C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59BE7A9-E738-41B3-B538-05018D407C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59BE7A9-E738-41B3-B538-05018D407C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59BE7A9-E738-41B3-B538-05018D407C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59BE7A9-E738-41B3-B538-05018D407C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270CAE20-F8F8-4C5E-A450-D98A9B6BAC6B}
+	EndGlobalSection
+EndGlobal
